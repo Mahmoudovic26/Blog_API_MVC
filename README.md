@@ -21,4 +21,5 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+* API
+  If you want to use my endpoints I recommend you to use localhost then use ngrok to get a live server then use yourdomain.ngrok.app/articles.json or yourdomain.ngrok.app/articles/1.json for specific post all my app sends and listens for jsons . 
